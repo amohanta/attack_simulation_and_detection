@@ -1,4 +1,4 @@
-# MuddyWater Espionage Operation – Combined Analysis
+# MuddyWater Espionage Operation
 
 **Sources:**
 - [Infosecurity Magazine – MuddyWater Compromised Mailboxes](https://www.infosecurity-magazine.com/news/muddywater-compromised-mailboxes/)
