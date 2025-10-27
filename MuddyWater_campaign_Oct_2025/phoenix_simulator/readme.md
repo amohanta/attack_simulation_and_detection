@@ -21,3 +21,8 @@
    - PDB file: phoenix.pdb
    - Located at: C:\Users\win10\Desktop\phoenixV4\phoenixV3\phoenixV2\x64\Debug\phoenix.pdb
    - Contains debugging symbols for development and analysis
+5. **Collect system Information**
+   - Computer name
+   - Domain or workgroup
+   - Windows version
+   - Current username
